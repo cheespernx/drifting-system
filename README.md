@@ -15,7 +15,7 @@ Um sistema de drifting para QBCore - by Trickster.
 A instalação é bem simples e rápida, basta seguir os passos abaixo:
 
 ## Instalação do script base:
-- Copie a pasta **[arc]** para a pasta **resources** do seu servidor;
+- Copie a pasta **[T_T]** para a pasta **resources** do seu servidor;
 - No arquivo **server.cfg**, na mesma parte onde você carrega os demais scripts, adicione a seguinte linha:
 
 ```cfg
