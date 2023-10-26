@@ -99,7 +99,8 @@ COMMIT;
 O script também tem suporte ao sistema de inventário padrão da QB-Core (qb-inventory). 
 
 Para adicionar as imagens, copie todas as imagens da pasta 
-- **[T_T]/T_T-drifting-system/images** 
+- **[T_T]/T_T-drifting-system/images**
+
 E cole na pasta: 
 - **[qb]/qb-inventory/html/images**
 
